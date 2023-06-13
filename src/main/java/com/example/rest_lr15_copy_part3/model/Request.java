@@ -1,8 +1,8 @@
 package com.example.rest_lr15_copy_part3.model;
 
-import jakarta.validation.constraints.Max;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.Size;
+import javax.validation.constraints.Max;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
 import lombok.Builder;
 import lombok.Data;
 
